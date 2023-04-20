@@ -21,4 +21,10 @@ describe Solver do
       expect(subject.reverse('1234')).to eq('4321')
     end
   end
+
+  describe '#fizzbuzz' do
+    it "returns 'fizz' when providing a multiple of 3" do
+      expect(subject.fizzbuzz(3)).to eq('fizz')
+    end
+  end
 end
