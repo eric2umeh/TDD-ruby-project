@@ -26,5 +26,8 @@ describe Solver do
     it "returns 'fizz' when providing a multiple of 3" do
       expect(subject.fizzbuzz(3)).to eq('fizz')
     end
+    it "returns 'buzz' when providing a multiple of 5" do
+      expect(subject.fizzbuzz(25)).to eq('buzz')
+    end
   end
 end
