@@ -103,6 +103,11 @@ Install this project with:
 - GitHub: [@eric2umeh](https://github.com/eric2umeh)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/eric-umeohabike/)
 
+👤 **Alwyn Androvelle**
+
+- GitHub: [@Thoth1111](https://github.com/Thoth1111)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/alwyn-androvelle-simiyu/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
