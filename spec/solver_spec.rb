@@ -1,3 +1,5 @@
+require './solver'
+
 describe Solver do
   describe '#factorial' do
     it 'returns the factorial of a positive integer' do
