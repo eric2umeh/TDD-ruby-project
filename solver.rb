@@ -1,4 +1,4 @@
-class Solver 
+class Solver
   def factorial(num)
     raise ArgumentError, 'Argument must be positive' if num.negative?
 
@@ -12,8 +12,10 @@ class Solver
   end
 
   def fizzbuzz(num)
-   if (num % 3).zero?
+    if (num % 3).zero?
       'fizz'
-   end
+    elsif (num % 5).zero?
+      'buzz'
+    end
   end
 end
